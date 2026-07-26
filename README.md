@@ -109,5 +109,5 @@ MIT
 ## 👤 Author
 
 **Rezaul Karim**
-- GitHub: [@mdrezaulkarim](https://github.com/mdrezaulkarim)
+- GitHub: [@webrezaul](https://github.com/webrezaul)
 - Website: [mdrezaulkarim.com](https://mdrezaulkarim.com)
